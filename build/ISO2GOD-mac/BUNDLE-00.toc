@@ -1,0 +1,3 @@
+([('ISO2GOD-mac',
+   '/Users/mohdismailmatasin/Desktop/ISO2GOD/dist/ISO2GOD-mac',
+   'EXECUTABLE')],)

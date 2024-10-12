@@ -1,4 +1,4 @@
-# ISO2GODConverter-MacOS
+# ISO2GOD-mac 
 A tool to convert Xbox 360 and original Xbox ISOs into an Xbox 360 compatible Games-On-Demand file format
 
 This graphical user interface (GUI) tool facilitates the conversion of Xbox 360 ISO files into the Games on Demand (GOD) format on MacOS. It is based on [iliazeus](https://github.com/iliazeus) [iso2god-rs](https://github.com/iliazeus/iso2god-rs) 

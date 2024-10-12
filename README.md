@@ -1,12 +1,12 @@
-# ISO2GOD-mac
+# ISO2GODConverter-MacOS
 A tool to convert Xbox 360 and original Xbox ISOs into an Xbox 360 compatible Games-On-Demand file format
 
-This is GUI version to rewrite of https://github.com/iliazeus/iso2god-rs on MacOS.
+This graphical user interface (GUI) tool facilitates the conversion of Xbox 360 ISO files into the Games on Demand (GOD) format on MacOS. It is based on [iliazeus](https://github.com/iliazeus) [iso2god-rs](https://github.com/iliazeus/iso2god-rs) 
 
-Requirement:
+## Requirement:
 - Python
 - tkinter 
 
-![Screenshot 2024-10-11 at 4 15 47 AM](https://github.com/user-attachments/assets/a2894a89-8205-4fe6-ae89-a616b01d1991)
+![ISO2GOGConverter](https://github.com/user-attachments/assets/a2894a89-8205-4fe6-ae89-a616b01d1991)
 
-Special Thanks to: https://github.com/iliazeus and https://github.com/eliecharra
+Special Thanks to: [iliazeus](https://github.com/iliazeus) and [eliecharra](https://github.com/eliecharra)
